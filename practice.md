@@ -4,4 +4,4 @@ Good,how are you
 
 
 
-An automatic merge is whenv there is no conflict when merging.(Andy)
+A merge Conflict is when there is a conflict when 
