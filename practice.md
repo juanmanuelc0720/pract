@@ -4,7 +4,7 @@ Good,how are you
 
 
 
-A merge Conflict is when there is a conflict when 
+A merge Conflict is when there is a conflict with the code and you need to maually fix the problem.
 
 an automatic merge is when there is no merge conflict- Juan
 
